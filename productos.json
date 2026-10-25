@@ -1,0 +1,424 @@
+{
+  "whatsapp": "527779866160",
+  "productos": [
+    {
+      "id": "pinon",
+      "nombre": "Crema de Piñón",
+      "tipo": "Cremas",
+      "precio": 390,
+      "contenido": "750 ml",
+      "alc": 14.7,
+      "unidad": "botella",
+      "color": "#D9B4C3",
+      "foto": "img/sabores/pinon.webp",
+      "corto": "Suave y tostada, con el dulzor del piñón mexicano.",
+      "desc": "Nuestra crema más delicada. Piñón tostado sobre una base de destilado de agave, con un final dulce y sedoso que se queda en el paladar.",
+      "notas": [
+        "Piñón tostado",
+        "Vainilla",
+        "Final sedoso"
+      ],
+      "servir": "Sola y fría, en las rocas o sobre helado de vainilla."
+    },
+    {
+      "id": "pistache",
+      "nombre": "Crema de Pistache",
+      "tipo": "Cremas",
+      "precio": 390,
+      "contenido": "750 ml",
+      "alc": 14.7,
+      "unidad": "botella",
+      "color": "#B9D3AC",
+      "foto": "img/sabores/pistache.webp",
+      "corto": "Cremosa y ligeramente salada, con pistache de verdad.",
+      "desc": "El pistache le da un toque tostado y apenas salado que equilibra la dulzura. Perfecta para quien busca algo distinto.",
+      "notas": [
+        "Pistache",
+        "Crema dulce",
+        "Toque salado"
+      ],
+      "servir": "En las rocas, en café de olla o en postres."
+    },
+    {
+      "id": "irlandesa",
+      "nombre": "Crema Irlandesa",
+      "tipo": "Cremas",
+      "precio": 390,
+      "contenido": "750 ml",
+      "alc": 14.7,
+      "unidad": "botella",
+      "color": "#D8C3AE",
+      "foto": "img/sabores/irlandesa.webp",
+      "corto": "Suave, cremosa y deliciosa, con un toque de whisky y cacao.",
+      "desc": "Crema de licor 100% artesanal hecha con amor. Notas de whisky, cacao y vainilla sobre una base de destilado de agave. La que más se pide para regalar.",
+      "notas": [
+        "Whisky",
+        "Cacao",
+        "Vainilla"
+      ],
+      "servir": "Con hielo, en café o sola después de comer."
+    },
+    {
+      "id": "cafe",
+      "nombre": "Crema de Café",
+      "tipo": "Cremas",
+      "precio": 390,
+      "contenido": "750 ml",
+      "alc": 14.7,
+      "unidad": "botella",
+      "color": "#B89A82",
+      "foto": "img/sabores/cafe.webp",
+      "corto": "Crema artesanal con intensas notas de café.",
+      "desc": "Crema de licor 100% artesanal, reposada en barricas de roble, con intensas notas de café tostado y un final suave.",
+      "notas": [
+        "Café tostado",
+        "Roble",
+        "Final suave"
+      ],
+      "servir": "Con hielo, en carajillo o sola después de comer."
+    },
+    {
+      "id": "nuez",
+      "nombre": "Crema de Nuez",
+      "tipo": "Cremas",
+      "precio": 390,
+      "contenido": "750 ml",
+      "alc": 14.7,
+      "unidad": "botella",
+      "color": "#A88468",
+      "foto": "img/sabores/nuez.webp",
+      "corto": "Suave, aromática y con un toque de nuez natural.",
+      "desc": "Crema de licor 100% artesanal, suave y aromática, con el sabor de la nuez natural tostada.",
+      "notas": [
+        "Nuez tostada",
+        "Caramelo",
+        "Vainilla"
+      ],
+      "servir": "Sola y fría, en las rocas o en postres."
+    },
+    {
+      "id": "coco",
+      "nombre": "Crema de Coco",
+      "tipo": "Cremas",
+      "precio": 390,
+      "contenido": "750 ml",
+      "alc": 14.7,
+      "unidad": "botella",
+      "color": "#E7DFCF",
+      "foto": "img/sabores/coco.webp",
+      "corto": "Cremosa y tropical, con coco natural.",
+      "desc": "Crema de licor 100% artesanal hecha con amor. Suave, cremosa y deliciosa, con todo el sabor del coco.",
+      "notas": [
+        "Coco",
+        "Crema dulce",
+        "Vainilla"
+      ],
+      "servir": "Bien fría, en las rocas o en coctelería."
+    },
+    {
+      "id": "pina-colada",
+      "nombre": "Piña Colada",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#E9C85A",
+      "foto": "img/sabores/pina-colada.webp",
+      "corto": "Notas tropicales de piña y coco.",
+      "desc": "Notas tropicales de piña y coco, reposado en barricas de roble. El sabor de la playa en una botella.",
+      "notas": [
+        "Piña",
+        "Coco",
+        "Roble"
+      ],
+      "servir": "Muy fría, con hielo o licuada con hielo frappé."
+    },
+    {
+      "id": "chocolate",
+      "nombre": "Chocolate",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#5A3324",
+      "foto": "img/sabores/chocolate.webp",
+      "corto": "Sabor intenso y natural con notas de cacao.",
+      "desc": "Licor de sabor intenso y natural con notas de cacao, reposado en barricas de roble.",
+      "notas": [
+        "Cacao",
+        "Roble",
+        "Final amargo"
+      ],
+      "servir": "Solo, en las rocas o en un café."
+    },
+    {
+      "id": "almendrado-con-cafe",
+      "nombre": "Almendrado con Café",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#6B3A22",
+      "foto": "img/sabores/almendrado-con-cafe.webp",
+      "corto": "Notas de café y almendra reposadas en roble.",
+      "desc": "Sabor intenso y natural con notas de café y almendra, reposado en barricas de roble.",
+      "notas": [
+        "Café",
+        "Almendra",
+        "Roble"
+      ],
+      "servir": "Solo, en caballito o como digestivo."
+    },
+    {
+      "id": "almendra",
+      "nombre": "Almendra",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#D9B65A",
+      "foto": "img/sabores/almendra.webp",
+      "corto": "Reposado en roble con suaves notas de almendra.",
+      "desc": "Licor reposado en barricas de roble con suaves notas de almendra tostada.",
+      "notas": [
+        "Almendra",
+        "Roble",
+        "Dulce"
+      ],
+      "servir": "Solo, en las rocas o como digestivo."
+    },
+    {
+      "id": "licor-cafe",
+      "nombre": "Licor de Café",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#4A2A1B",
+      "foto": "img/sabores/licor-cafe.webp",
+      "corto": "Sabor intenso y natural con notas de café.",
+      "desc": "Licor reposado en barricas de roble, de sabor intenso y natural con notas de café tostado.",
+      "notas": [
+        "Café tostado",
+        "Roble",
+        "Cacao"
+      ],
+      "servir": "Solo, en carajillo o como digestivo."
+    },
+    {
+      "id": "licor-coco",
+      "nombre": "Licor de Coco",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#E6DCC4",
+      "foto": "img/sabores/licor-coco.webp",
+      "corto": "Suave y natural, con notas de coco.",
+      "desc": "Licor reposado en barricas de roble, de sabor suave y natural con notas de coco.",
+      "notas": [
+        "Coco",
+        "Roble",
+        "Vainilla"
+      ],
+      "servir": "Bien frío, en las rocas o en coctelería."
+    },
+    {
+      "id": "licor-nuez",
+      "nombre": "Licor de Nuez",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#B07A45",
+      "foto": "img/sabores/licor-nuez.webp",
+      "corto": "Reposado en roble con notas de nuez.",
+      "desc": "Licor reposado en barricas de roble, de sabor intenso y natural con notas de nuez tostada.",
+      "notas": [
+        "Nuez tostada",
+        "Roble",
+        "Caramelo"
+      ],
+      "servir": "Solo, en las rocas o como digestivo."
+    },
+    {
+      "id": "licor-irlandesa",
+      "nombre": "Licor de Crema Irlandesa",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#7A3A22",
+      "foto": "img/sabores/licor-irlandesa.webp",
+      "corto": "Notas de cacao y vainilla reposadas en roble.",
+      "desc": "Licor reposado en barricas de roble, de sabor intenso y natural con notas de cacao y vainilla.",
+      "notas": [
+        "Cacao",
+        "Vainilla",
+        "Roble"
+      ],
+      "servir": "Solo, en café o en las rocas."
+    },
+    {
+      "id": "licor-membrillo",
+      "nombre": "Licor de Membrillo",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#5E2A22",
+      "foto": "img/sabores/licor-membrillo.webp",
+      "corto": "Notas de membrillo reposadas en roble.",
+      "desc": "Licor reposado en barricas de roble, de sabor intenso y natural con notas de membrillo.",
+      "notas": [
+        "Membrillo",
+        "Roble",
+        "Dulce"
+      ],
+      "servir": "Solo, en caballito o como digestivo."
+    },
+    {
+      "id": "licor-durazno",
+      "nombre": "Licor de Durazno",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#D97A2B",
+      "foto": "img/sabores/licor-durazno.webp",
+      "corto": "Frutal y natural, con notas de durazno.",
+      "desc": "Licor reposado en barricas de roble, de sabor intenso y natural con notas de durazno.",
+      "notas": [
+        "Durazno",
+        "Roble",
+        "Miel"
+      ],
+      "servir": "Frío, en las rocas o en coctelería."
+    },
+    {
+      "id": "macho-con-chile",
+      "nombre": "Macho con Chile",
+      "tipo": "Licores",
+      "precio": 350,
+      "contenido": "750 ml",
+      "alc": 20,
+      "unidad": "botella",
+      "color": "#8E3B2A",
+      "foto": "img/sabores/macho-con-chile.webp",
+      "corto": "Destilado de agave madurado con chiles selectos.",
+      "desc": "Destilado de agave madurado con chiles selectos dentro de la botella. Una combinación robusta y auténtica que representa nuestras raíces: picor que va subiendo y un fondo ahumado.",
+      "notas": [
+        "Chile seco",
+        "Agave",
+        "Ahumado"
+      ],
+      "servir": "En caballito, con naranja y sal de gusano."
+    },
+    {
+      "id": "alioli",
+      "nombre": "Salsa Alioli",
+      "tipo": "Salsas",
+      "precio": 120,
+      "contenido": "265 g",
+      "alc": null,
+      "unidad": "frasco",
+      "color": "#B9C9A0",
+      "foto": "img/sabores/alioli.jpg",
+      "corto": "Auténtico sabor español, con aceite de oliva extra virgen.",
+      "desc": "Mayonesa artesanal con aceite de oliva extra virgen, ajo y perejil. Auténtico sabor español, hecha con amor y ternura.",
+      "notas": [
+        "Ajo",
+        "Aceite de oliva",
+        "Perejil"
+      ],
+      "servir": "Con pan, papas, mariscos o carnes a la parrilla."
+    },
+    {
+      "id": "alioli-chipotle",
+      "nombre": "Salsa Alioli al Chipotle",
+      "color": "#C9624A",
+      "foto": "img/sabores/alioli-chipotle.jpg",
+      "corto": "Alioli artesanal con el toque ahumado del chipotle.",
+      "desc": "Mayonesa artesanal con aceite de oliva extra virgen, chipotle, ajo, perejil, sal y especias. Auténtico sabor de culturas: lo mejor del alioli español con el picor ahumado de México.",
+      "notas": [
+        "Chipotle",
+        "Ajo",
+        "Aceite de oliva"
+      ],
+      "servir": "Tacos, hamburguesas, papas, mariscos y carnes asadas.",
+      "tipo": "Salsas",
+      "precio": 120,
+      "contenido": "265 g",
+      "alc": null,
+      "unidad": "frasco"
+    },
+    {
+      "id": "chimichurri",
+      "nombre": "Salsa Chimichurri Argentino",
+      "color": "#4E7A3A",
+      "foto": "img/sabores/chimichurri.jpg",
+      "corto": "Chimichurri argentino con aceite de oliva español.",
+      "desc": "Auténtico chimichurri argentino preparado con aceite de oliva español, ajo, perejil y vinagre. Auténtico sabor de culturas.",
+      "notas": [
+        "Perejil",
+        "Ajo",
+        "Vinagre"
+      ],
+      "servir": "Carnes a la parrilla, choripán, pollo y verduras asadas.",
+      "tipo": "Salsas",
+      "precio": 120,
+      "contenido": "265 g",
+      "alc": null,
+      "unidad": "frasco"
+    },
+    {
+      "id": "chioli",
+      "nombre": "Salsa Chioli",
+      "tipo": "Salsas",
+      "precio": 120,
+      "contenido": "265 g",
+      "alc": null,
+      "unidad": "frasco",
+      "color": "#B8352A",
+      "foto": "img/sabores/chioli.jpg",
+      "corto": "Chile morita y ajo en aceite de oliva extra virgen.",
+      "desc": "Salsa artesanal de chile morita y ajo en aceite de oliva extra virgen. Auténtico sabor mexicano, hecha con amor, ternura y pasión.",
+      "notas": [
+        "Chile morita",
+        "Ajo",
+        "Aceite de oliva"
+      ],
+      "servir": "Tacos, huevos, pizzas, sopas y todo lo que necesite un toque de picor."
+    },
+    {
+      "id": "botella-personalizada",
+      "nombre": "Botella Personalizada",
+      "tipo": "Botellas personalizadas",
+      "precio": 450,
+      "contenido": "750 ml",
+      "alc": null,
+      "unidad": "botella",
+      "color": "#D9B4C3",
+      "foto": "img/sabores/pinon.webp",
+      "corto": "Tu sabor favorito con un nombre o mensaje en la etiqueta.",
+      "desc": "Elige cualquiera de nuestras cremas o licores y lo personalizamos con el nombre o mensaje que quieras. Ideal para cumpleaños, bodas, aniversarios y regalos corporativos.",
+      "notas": [
+        "Cumpleaños",
+        "Bodas",
+        "Corporativo"
+      ],
+      "servir": "Pídela con al menos 3 días de anticipación.",
+      "personalizable": true
+    }
+  ]
+}
